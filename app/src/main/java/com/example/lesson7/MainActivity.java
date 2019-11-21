@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         if (checked) {
             ((CheckBox)findViewById (R.id.checkBox)).setText ("Checkbox is checked");
         }
-//Comment
+//Commentaa
             else {
             ((CheckBox)findViewById (R.id.checkBox)).setText ("Checkbox is not checked");
         }
